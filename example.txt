@@ -1,1 +1,1 @@
-First version of the Git practical.
+First version of the Git practical
